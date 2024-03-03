@@ -1,3 +1,5 @@
+![Feature Graphic](https://github.com/bimothii/crisis-connect/assets/73085403/c1dc7a6f-17c5-4fe1-8cba-fc6575ddb626)
+
 Location Services
 > Automatically lists the local emergency numbers in over 200 countries and territories
 > 
